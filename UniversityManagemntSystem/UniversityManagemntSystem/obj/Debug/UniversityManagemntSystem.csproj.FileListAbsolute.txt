@@ -1,0 +1,309 @@
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll.config
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.pdb
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\AspNet.Mvc.Grid.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\GridMvc.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Owin.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\WebGrease.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.pdb
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.pdb
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.csprojResolveAssemblyReference.cache
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\itextsharp.dll
+F:\My Project MVC\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\RazorPDF.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll.config
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.pdb
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\AspNet.Mvc.Grid.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\GridMvc.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\itextsharp.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Owin.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\RazorPDF.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\WebGrease.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.dll
+C:\Users\user\Desktop\project\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.pdb
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll.config
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.pdb
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\AspNet.Mvc.Grid.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\GridMvc.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\itextsharp.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Owin.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\RazorPDF.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\WebGrease.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.pdb
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.csprojResolveAssemblyReference.cache
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.dll
+F:\New folder\Project 2 Solve 11.02.2016\Project 2 Solve 11.02.2016\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.pdb
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll.config
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.pdb
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\AspNet.Mvc.Grid.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\GridMvc.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\itextsharp.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Owin.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\RazorPDF.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\WebGrease.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.dll
+C:\Users\Web App Develop.Net\Desktop\Nawaz\University_Course_Management_With_MVC-master\University Course and Result Management\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.pdb
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll.config
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\UniversityManagemntSystem.pdb
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\AspNet.Mvc.Grid.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\GridMvc.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\itextsharp.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Owin.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\RazorPDF.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\WebGrease.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\PagedList.Mvc.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Helpers.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Mvc.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Razor.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Deployment.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.WebPages.Razor.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\System.Web.Optimization.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Newtonsoft.Json.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Antlr3.Runtime.pdb
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\EntityFramework.SqlServer.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.csprojResolveAssemblyReference.cache
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.dll
+F:\My Project MVC\University Course Management Sytem Project for Presentation\UniversityManagemntSystem\UniversityManagemntSystem\obj\Debug\UniversityManagemntSystem.pdb

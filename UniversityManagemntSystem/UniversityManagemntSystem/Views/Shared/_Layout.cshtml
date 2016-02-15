@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title Digital University</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <link href="~/Content/Style.css" rel="stylesheet" />
+    <link href="~/Content/mobiscroll-2.9.5.full.min.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+           
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active">@Html.ActionLink("Home", "Index", "Home") <span class="sr-only">(current)</span></li>
+                    
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Department <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Add Department", "Save", "Department")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("View Department", "Index", "Department")</li> 
+                        </ul>
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Course <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Add Course", "Save", "Course")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("View Course Statics", "ShowCourseStatics", "CourseView")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("Unassign Courses", "UnAssign", "UnAssignCourses")</li>
+                            
+                        </ul>
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Teacher <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Add Teacher", "Save", "Teacher")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("Assign Course To Teacher", "AssignCourseToTeacher", "CourseAssignToTeacher")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("View Teacher Information", "Index", "Teacher")</li>
+                            <li role="separator" class="divider"></li>
+
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Student <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Add Student", "Save", "Student")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("Enroll Student In Course", "Enroll", "EnrollStudentInCourse")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("Save Student Result", "Save", "StudentResult")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("View Student Result", "ViewStudentResult", "StudentResult")</li>
+
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Class Room Allocation <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Allocate Classroom", "Save", "ClassRoom")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("View Class Schedule", "Index", "ClassRoom")</li>
+                            <li role="separator" class="divider"></li>
+                            <li>@Html.ActionLink("Unallocate Class Room", "UnAllocateClassRoom", "ClassRoom")</li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - All right Reserved by DDIP</p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/mobiscroll-2.9.5.full.min.js"></script>
+
+    @*for dropdown*@
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script>
+        $('.dropdown').hover(function () {
+            $('.dropdown-toggle', this).trigger('click');
+        });
+    </script>
+    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

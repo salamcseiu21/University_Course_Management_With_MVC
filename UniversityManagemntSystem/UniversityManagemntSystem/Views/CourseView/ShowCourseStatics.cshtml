@@ -1,0 +1,74 @@
+﻿@using GridMvc.Html
+@model IEnumerable<UniversityManagemntSystem.Models.CourseViewModel>
+
+@{
+    ViewBag.Title = "ShowCourseStatics";
+}
+
+<h2>Course Statics</h2>
+<p>
+    <table>
+        <tr>
+            <td>
+                <label for="DepartmentId">Department</label>
+            </td>
+            <td>
+                <select id="DepartmentId" name="DepartmentId">
+                    <option value="">Select...</option>
+                    @foreach (var dept in ViewBag.Departments)
+                    {
+                        <option value="@dept.Id">@dept.Name</option>
+                    }
+                </select>
+            </td>
+        </tr>
+    </table>
+
+
+
+</p>
+
+<table border="1" width="75%">
+    <tr>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Semester</th>
+        <th>Teacher</th>
+    </tr>
+    <tbody id="myData"></tbody>
+</table>
+
+@section scripts{
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $("#DepartmentId").change(function () {
+                $("#myData").empty();
+                var deptId = $("#DepartmentId").val();
+                var json = { departmentId: deptId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseInformationByDepartmentId","CourseView")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+
+                        $.each(data, function (index, value) {
+
+                            var row = $("<tr><td>" + value.Code + "</td><td>" + value.Name + "</td><td>" + value.Semester + "</td><td>" + value.Teacher + "</td></tr>");
+                            $("#myData").append(row);
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+<script>
+    $('.dropdown').hover(function () {
+        $('.dropdown-toggle', this).trigger('click');
+    });
+</script>
+}

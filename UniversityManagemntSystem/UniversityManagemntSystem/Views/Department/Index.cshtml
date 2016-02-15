@@ -1,0 +1,33 @@
+﻿
+@using GridMvc.Html
+
+
+@model IEnumerable<UniversityManagemntSystem.Models.Department>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    
+
+<h2>Department Inforamation</h2>
+    
+   
+    <p>
+        @Html.ActionLink("Add Department", "Save")
+    </p>
+
+    <p>
+        @Html.Grid(Model).Columns(columns =>
+      {
+          columns.Add(st => st.Code)
+          .Titled("Code");
+            columns.Add(st => st.Name)
+            .Titled("Name");
+          
+
+        }).WithPaging(4).Sortable();
+    </p>
+     
+    </div>

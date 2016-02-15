@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Mobiscroll</id>
+    <version>2.9.5</version>
+    <title>Mobiscroll</title>
+    <authors>Acid Media</authors>
+    <owners>Acid Media</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://mobiscroll.com/</projectUrl>
+    <iconUrl>https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/311510_246383482069684_226962304011802_686708_1771006461_n.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mobiscroll package for jQuery</description>
+    <summary>A wheel scroller user control optimized for touchscreens to easily enter date and/or time. The control can easily be customized to support any custom values.</summary>
+    <releaseNotes>Changelog 2.9.5
+
+Bugfixes
+
+Core
+
+  * Fixed: Tap on items did not work correctly on Android 2.3
+
+  * Fixed: Tap on overlay caused bleed-through on Android 2.3
+
+  * Fixed: Fallback to english locales if a language is not found (#210).
+
+  * Fixed: Animations are disabled now on Android 2.3
+
+Calendar
+
+  * Fixed: Page was not scrollable from the calendar if in inline mode or calendar was larger than the screen.
+
+  * Fixed: If in inline mode, months swipe was broken if used with page transitions on some devices.
+
+  * Fixed: Month swipe worked incorrectly with min/max date set.
+
+Datetime
+
+  * Fixed: fix for parseDate and formatDate utility functions (#209).
+
+  * Fixed: minDate and maxDate did not work correctly (#212).
+
+Timer
+
+  * Fixed: Display fixes for ios, ios7 and android-ics themes.
+
+Treelist
+
+  * Fixed: Wheels were not always hidden if tree had different levels (#211).</releaseNotes>
+    <copyright />
+    <language>en-US</language>
+    <tags>jQuery JavaScript datepicker timepicker touchscreen Webkit android iPhone iPad webapps GalaxyTab dropdown mobile wheel senseui</tags>
+    <dependencies>
+      <dependency id="jQuery" version="1.7" />
+    </dependencies>
+  </metadata>
+</package>

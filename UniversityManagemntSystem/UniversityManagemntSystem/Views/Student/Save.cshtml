@@ -1,0 +1,128 @@
+﻿@model UniversityManagemntSystem.Models.Student
+
+@{
+    ViewBag.Title = "Save";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/jquery-ui.css" rel="stylesheet" />
+<h2>Save</h2>
+
+<h2>Student Information</h2>
+
+@if (ViewBag.Message != null)
+{
+
+    @ViewBag.Message
+
+}
+
+
+<form id="saveStudentForm" method="POST">
+
+    <table>
+        <tr>
+            <td>
+                <label for="Name">Name</label>
+            </td>
+            <td>
+                <input type="text" id="Name" name="Name" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="Email">Email</label>
+            </td>
+            <td>
+                <input type="text" id="Email" name="Email" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="Contact">Contact</label>
+            </td>
+            <td>
+                <input type="text" id="Contact" name="Contact" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="RegDate">Date</label>
+            </td>
+            <td>
+                <input type="text" id="RegDate" name="RegDate" value="@DateTime.Now.ToShortDateString()" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="Address">Address</label>
+            </td>
+            <td>
+                <textarea id="Address" name="Address"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="DepartmentId">Department</label>
+            </td>
+            <td>
+                <select id="DepartmentId" name="DepartmentId">
+                    <option value="">Select.......</option>
+
+                    @foreach (var dept in ViewBag.Departments)
+                    {
+                        <option value="@dept.Id">@dept.Name</option>
+                    }
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Register" />
+            </td>
+        </tr>
+    </table>
+
+</form>
+
+
+@section Scripts {
+
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery-ui.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#RegDate').datepicker();
+            $("#saveStudentForm").validate({
+                rules: {
+                    Name: "required",
+                    Email: {
+                        required: true,
+                        email: true
+                    },
+                    Contact: "required",
+                    RegDate: "required",
+                    Address: "required",
+                    DepartmentId: "required"
+
+                },
+                messages: {
+                    Name: "Please enter the student Name",
+                    Email: {
+                        required: "Please email address is required",
+                        email: "Please enter a correct email address"
+                    },
+                    Contact: "Please enter the student contact",
+                    RegDate: "Select date",
+                    Address: "Address is required!",
+                    DepartmentId: "Please select department"
+                }
+            });
+
+
+        });
+    </script>
+}
